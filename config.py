@@ -15,7 +15,7 @@ FSUB_GROUP = os.environ.get("FSUB_GROUP", "mtpmasala")
 DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://idol:hari813143@idol.cukivnu.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 CAPTION = os.environ.get("CAPTION", "")
-group = environ.get('GROUP', '-1002147535144')
+group = environ.get('GROUP', '-1002324594458')
 GROUP = int(group) if group and id_pattern.search(group) else None
 #ALL FILES UPLOADED - CREDITS 🌟 - @Sunrises_24
 SUNRISES_PIC= "https://graph.org/file/bd91761f6e938e2e6d23a.jpg"  # Replace with your Telegraph link
